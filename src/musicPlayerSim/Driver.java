@@ -1,9 +1,9 @@
-package muisicPLayerSim; 
+package musicPlayerSim; 
 
 /**
  * main
  */
-public class src {
+public class Driver {
 
     public static void main(String[] args) {
         
